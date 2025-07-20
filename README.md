@@ -23,12 +23,6 @@ A cross-platform **PyQt5 GUI application** that allows users to upload files and
 
 ---
 
-## 📸 Screenshot
-
-> Add your own screenshot.png or GIF here.
-
-![App Screenshot](screenshot.png)
-
 ---
 
 ## 📁 Project Structure
