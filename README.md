@@ -27,10 +27,9 @@ A cross-platform **PyQt5 GUI application** that allows users to upload files and
 
 ## 📁 Project Structure
 
-
-> s3_uploader.py # Main GUI application
-> requirements.txt # Python dependencies
-> README.md # This file
+- s3_uploader.py # Main GUI application
+- requirements.txt # Python dependencies
+- README.md # This file
 
 
 ---
