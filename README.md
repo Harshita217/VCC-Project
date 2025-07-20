@@ -33,13 +33,10 @@ A cross-platform **PyQt5 GUI application** that allows users to upload files and
 
 ## 📁 Project Structure
 
-.
-├── s3_uploader.py # Main GUI application
-├── requirements.txt # Python dependencies
-├── README.md # This file
-├── ~/.aws_pyqt_multi_creds # AWS profiles (Fernet-encrypted)
-├── ~/.azure_pyqt_multi_conns # Azure connection profiles
-└── ~/.gcs_pyqt_multi_conns # GCP service account configs
+
+> s3_uploader.py # Main GUI application
+> requirements.txt # Python dependencies
+> README.md # This file
 
 
 ---
